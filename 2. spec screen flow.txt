@@ -1,0 +1,34 @@
+Detail design untuk screen behavior dari mobile apps berdasarkan screen flow :
+
+1. Halaman Login:
+    Pengguna memasukkan email dan kata sandi mereka.
+    Pengguna dapat memilih untuk menggunakan biometric jika perangkat mereka mendukung fitur tersebut.
+    Jika informasi yang dimasukkan benar, pengguna akan diarahkan ke halaman utama. Jika tidak, pesan kesalahan akan muncul.
+    Jika berhasil login, pengguna akan di arahkan ke halaman utama.
+
+2. Halaman Registrasi:
+    Pengguna memasukkan informasi pribadi mereka, seperti nama lengkap, email, nomor telepon, dan upload foto serta KTP mereka.
+    Setelah informasi di-submit, pengguna akan menerima email verifikasi untuk memverifikasi akun mereka.
+    Setelah akun diverifikasi, pengguna akan diarahkan ke halaman login.
+
+3. Halaman Utama:
+    Pengguna dapat melihat sisa hutang dan tagihan per bulan yang harus dibayarkan.
+    Pengguna dapat memulai proses peminjaman atau memeriksa status pengajuan pinjaman saat ini.
+    Pengguna juga dapat mengakses pengaturan akun dan halaman profil pengguna.
+
+4. Halaman Pengajuan Pinjaman:
+    Pengguna memasukkan jumlah pinjaman yang diinginkan dan tenor yang diinginkan.
+    Pengguna juga dapat melihat rincian biaya dan bunga yang akan dikenakan untuk pinjaman tersebut.
+    Setelah pengguna mengajukan permohonan pinjaman, aplikasi akan memproses permohonan dan memberikan notifikasi ke pengguna tentang hasilnya.
+
+5. Halaman Status Pengajuan Pinjaman:
+    Halaman ini menampilkan status permohonan pinjaman yang sedang berjalan, termasuk apakah permohonan sedang diproses, diterima, atau ditolak.
+    Jika permohonan diterima, pengguna akan menerima notifikasi lewat email dan nomor telepon yang terdaftar.
+
+6. Halaman Pengaturan Akun:
+    Pengguna dapat mengubah kata sandi mereka atau mengatur preferensi notifikasi.
+    Pengguna juga dapat mengaktifkan atau menonaktifkan fitur biometric jika perangkat mereka mendukung fitur tersebut.
+
+7. Halaman Profil Pengguna:
+    Pengguna dapat melihat informasi profil mereka, termasuk foto profil, nama, email, dan nomor telepon.
+    Pengguna juga dapat melihat dan mengubah informasi KTP mereka.

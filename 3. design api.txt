@@ -1,0 +1,21 @@
+detail Design untuk API:
+
+API Endpoint:
+    /register
+    /login
+    /user/:userID
+    /loan/:loanID
+    /loan/apply
+    /loan/status/:loanID
+    /loan/payments/:loanID
+
+API Methods:
+    POST /register: Mendaftarkan pengguna baru ke sistem
+    POST /login: Mengotentikasi pengguna dan memberikan token akses
+    GET /user/:userID: Mengambil informasi pengguna dengan ID tertentu
+    GET /loan/:loanID: Mengambil informasi pinjaman dengan ID tertentu
+    POST /loan/apply: Mengajukan permohonan pinjaman baru
+    GET /loan/status/:loanID: Mengambil status permohonan pinjaman tertentu
+    POST /loan/status/:loanID Mengubah status permohonan pinjaman tertentu
+    GET /loan/payments/:loanID: Mengambil riwayat pembayaran untuk pinjaman tertentu
+    POST /loan/payments/:loanID: Untuk melakukan pembayaran untuk pinjaman
