@@ -32,3 +32,6 @@ Detail design untuk screen behavior dari mobile apps berdasarkan screen flow :
 7. Halaman Profil Pengguna:
     Pengguna dapat melihat informasi profil mereka, termasuk foto profil, nama, email, dan nomor telepon.
     Pengguna juga dapat melihat dan mengubah informasi KTP mereka.
+
+8. Halaman Bayar Pinjaman:
+    Pengguna dapat melakukan pembayaran pinjaman.
