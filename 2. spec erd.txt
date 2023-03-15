@@ -18,7 +18,7 @@ Fields:
     LoanID (PK)
     UserID (FK)
     Loan Amount
-    Loan Term (3, 6, 9, 12, 15, 18, 21) (month)
+    Loan Term (3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36) (month)
     Loan Status (0, 1, -1) 0 = Waiting Approval, 1 = Approved, -1 = Rejected, -2 = Canceled
     Purpose
 
