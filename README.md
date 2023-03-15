@@ -1,2 +1,3 @@
-# solution-analyst
-Technical Assesment Mandiri for Solution Analyst
+# [Solutin Analyst] Bernand Dayamuntari Hermawan
+
+Technical Assesment Bank Mandiri for Solution Analyst
